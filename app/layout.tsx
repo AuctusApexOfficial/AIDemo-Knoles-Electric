@@ -20,7 +20,7 @@ const playfair = Playfair_Display({
 export const metadata: Metadata = {
   title: "DEMO Knoles Electric",
   description: "AI Chatbot DEMO",
-    generator: 'v0.dev'
+    generator: 'Auctus Apex'
 }
 
 export default function RootLayout({
