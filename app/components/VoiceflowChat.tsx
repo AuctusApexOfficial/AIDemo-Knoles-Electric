@@ -9,7 +9,7 @@ export default function VoiceflowChat() {
     script.onload = () => {
       if (window.voiceflow) {
         window.voiceflow.chat.load({
-          verify: { projectID: "686f07d5208b8946bb774acf" },
+          verify: { projectID: "6877b58dfdf83ef33d8f5f0d" },
           url: "https://general-runtime.voiceflow.com",
           versionID: "production",
           voice: {
